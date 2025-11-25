@@ -19,5 +19,5 @@ If you have any questions, don’t hesitate to leave an email here:
 % Author: Md. Mamunur Rashid, < mamun.stat92@gmail.com > % 2024
 
 
-
+## MOMLIN R codes available here: https://github.com/mamun41/MOMLIN-R-version 
 
