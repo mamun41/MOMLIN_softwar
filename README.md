@@ -44,4 +44,7 @@ If you have any questions, feel free to contact:
 ## R implementation
 
 MOMLIN R version is available here:  
-👉 https://github.com/mamun41/MOMLIN-R-version
+<a href="https://github.com/mamun41/MOMLIN-R-version" target="_blank" rel="noopener noreferrer">
+https://github.com/mamun41/MOMLIN-R-version
+</a>
+
